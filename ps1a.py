@@ -1,3 +1,5 @@
+# worked as a team with Suleiman Ibrahim Junior, Gana Ebenezer and Adamu Nurudeen
+
 # Taking users input 
 annual_salary = float(input("What is your starting annual salary: "))
 portion_saved = float(input("What portion of your salary is to be saved, as a decimal: "))
